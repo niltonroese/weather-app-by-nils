@@ -9,6 +9,11 @@
       "name": "testname1",
       "email": "testemail1@gmail.com",
       "id": 2
+    },
+    {
+      "name": "Test name 2",
+      "email": "testemail2@gmail.com",
+      "id": 3
     }
   ]
 }
