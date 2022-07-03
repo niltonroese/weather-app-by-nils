@@ -9,16 +9,11 @@
       "name": "testname1",
       "email": "testemail1@gmail.com",
       "id": 2
-    },
+    }
     {
-      "name": "Test name 2",
-      "email": "testemail2@gmail.com",
-      "id": 3
-    },
-    {
-      "name": "Test name x",
-      "email": "testemailx@gmail.com",
-      "id": 4
+      "name": "Test final",
+      "email": "testfinal@gmail.com",
+      "id": 5
     }
   ]
 }
