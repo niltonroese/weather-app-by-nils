@@ -10,9 +10,9 @@ export default function App() {
     <Router>
       <MainTheme>
         <Routes>
-          <Route exact path= '/' element={<WeatherBackground />} />
-          <Route path= '/contact' element={<Contact />} />
-          <Route path= '/settings' element={<Settings />} />
+          <Route exact path= '/weather-app-by-nils' element={<WeatherBackground />} />
+          <Route path= '/weather-app-by-nils/contact' element={<Contact />} />
+          <Route path= '/weather-app-by-nils/settings' element={<Settings />} />
         </Routes> 
       </MainTheme>        
     </Router>
