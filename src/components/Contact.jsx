@@ -16,7 +16,7 @@ export default function Contact() {
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(details)
         };
-        fetch('http://localhost:2004/Contact', requestMethod)
+        fetch('http://localhost:3000/Contact', requestMethod)
         .then( (resp) => {    
                 setName("")
                 setEmail("")
