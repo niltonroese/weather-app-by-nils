@@ -12,7 +12,8 @@ const PageNotFound = () => {
                         <hr />
                     </h2>
                     <p>Sorry! This page could not be found.</p>
-                    <Link className="btn btn-info" to="/weather-app-by-nils">Back to homepage...</Link>
+                    <Link className="btn btn-info mb-3" to="/weather-app-by-nils">Back to homepage...</Link>
+                <br />
                 </div>
             </div>
         </div>
