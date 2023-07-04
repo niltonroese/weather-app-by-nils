@@ -8,7 +8,7 @@ export default function Footer() {
                     <a className="nav-link" href="https://github.com/niltonroese"><i className="fab fa-github"></i></a>
                 </li>
                 <li className="nav-item">
-                    <a className="nav-link" href="https://www.linkedin.com/in/niltonmarmittroese/"><i className="fab fa-linkedin"></i></a>
+                    <a className="nav-link" href="https://au.linkedin.com/in/niltonroese/"><i className="fab fa-linkedin"></i></a>
                 </li>
                 <li className="nav-item">
                     <a className="nav-link" href="https://medium.com/@niltonroese"><i className="fab fa-medium"></i></a>
